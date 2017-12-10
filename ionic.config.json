@@ -1,0 +1,8 @@
+{
+  "name": "navegacion",
+  "app_id": "dc540621",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
